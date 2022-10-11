@@ -11,7 +11,8 @@ ____
 
 ____
 
-В проекте используются : 
+## В проекте используются : 
+
 ```
-  React, Typescript, Material UI
+  React; Typescript; Material UI
 ```
